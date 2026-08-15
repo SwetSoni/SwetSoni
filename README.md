@@ -41,73 +41,64 @@
 
 **Development**
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/html5" width="48" height="48" title="HTML5"/>
+<img src="https://cdn.simpleicons.org/css3" width="48" height="48" title="CSS3"/>
+<img src="https://cdn.simpleicons.org/openjdk" width="48" height="48" title="Java"/>
+<img src="https://cdn.simpleicons.org/python" width="48" height="48" title="Python"/>
+<img src="https://cdn.simpleicons.org/javascript" width="48" height="48" title="JavaScript"/>
+<img src="https://cdn.simpleicons.org/php" width="48" height="48" title="PHP"/>
+<img src="https://cdn.simpleicons.org/salesforce" width="48" height="48" title="Salesforce"/>
 
 **Data & Databases**
 <br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/mysql" width="48" height="48" title="MySQL"/>
+<img src="https://cdn.simpleicons.org/oracle" width="48" height="48" title="Oracle"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel" width="48" height="48" title="Excel"/>
 
 **QA & Test Automation**
 <br/>
-<img src="https://img.shields.io/badge/Manual%20Testing-4B0082?style=flat-square"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-EE2C2C?style=flat-square&logo=testinglibrary&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/selenium" width="48" height="48" title="Selenium"/>
+<img src="https://cdn.simpleicons.org/playwright" width="48" height="48" title="Playwright"/>
+<img src="https://cdn.simpleicons.org/cypress" width="48" height="48" title="Cypress"/>
+<img src="https://cdn.simpleicons.org/junit5" width="48" height="48" title="JUnit5"/>
+<img src="https://cdn.simpleicons.org/pytest" width="48" height="48" title="PyTest"/>
+<img src="https://cdn.simpleicons.org/cucumber" width="48" height="48" title="Cucumber"/>
+<img src="https://cdn.simpleicons.org/appium" width="48" height="48" title="Appium"/>
+<img src="https://cdn.simpleicons.org/apachejmeter" width="48" height="48" title="JMeter"/>
 
 **Tooling & DevOps**
 <br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/postman" width="48" height="48" title="Postman"/>
+<img src="https://cdn.simpleicons.org/git" width="48" height="48" title="Git"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/jira" width="48" height="48" title="Jira"/>
+<img src="https://cdn.simpleicons.org/jenkins" width="48" height="48" title="Jenkins"/>
+<img src="https://cdn.simpleicons.org/docker" width="48" height="48" title="Docker"/>
+<img src="https://cdn.simpleicons.org/linux" width="48" height="48" title="Linux"/>
+<img src="https://cdn.simpleicons.org/visualstudiocode" width="48" height="48" title="VS Code"/>
 
 **Cybersecurity & Security Testing**
 <br/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-1E1E1E?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shodan-EE1C25?style=flat-square&logo=shodan&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/tcpdump-000000?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nessus-33BEB7?style=flat-square&logo=tenable&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMap-D22128?style=flat-square"/>
-<img src="https://img.shields.io/badge/Snort-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wazuh-3AB6E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenVAS-6BA539?style=flat-square"/>
+<img src="https://cdn.simpleicons.org/burpsuite" width="48" height="48" title="Burp Suite"/>
+<img src="https://cdn.simpleicons.org/owasp" width="48" height="48" title="OWASP ZAP"/>
+<img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" title="Wireshark"/>
+<img src="https://cdn.simpleicons.org/nmap" width="48" height="48" title="Nmap"/>
+<img src="https://cdn.simpleicons.org/kalilinux" width="48" height="48" title="Kali Linux"/>
+<img src="https://cdn.simpleicons.org/metasploit" width="48" height="48" title="Metasploit"/>
+<img src="https://cdn.simpleicons.org/shodan" width="48" height="48" title="Shodan"/>
+<img src="https://cdn.simpleicons.org/splunk" width="48" height="48" title="Splunk"/>
+<img src="https://cdn.simpleicons.org/elastic" width="48" height="48" title="Elastic Stack"/>
+<img src="https://cdn.simpleicons.org/snyk" width="48" height="48" title="Snyk"/>
+<img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48" title="TensorFlow"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48" title="scikit-learn"/>
+<img src="https://cdn.simpleicons.org/tenable" width="48" height="48" title="Nessus"/>
 
 **Design**
 <br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/figma" width="48" height="48" title="Figma"/>
+<img src="https://cdn.simpleicons.org/adobeillustrator" width="48" height="48" title="Illustrator"/>
+<img src="https://cdn.simpleicons.org/adobephotoshop" width="48" height="48" title="Photoshop"/>
+<img src="https://cdn.simpleicons.org/canva" width="48" height="48" title="Canva"/>
 
 </div>
 
@@ -117,16 +108,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SwetSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SwetSoni&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" width="400" src="https://github-stats-extended.vercel.app/api?username=SwetSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" />
+<img height="180" width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SwetSoni&layout=compact&theme=tokyonight&hide_border=true&card_width=400" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwetSoni&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 <div align="center">
 <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SwetSoni&theme=tokyonight&no-frame=true&row=1&column=7" />
