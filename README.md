@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://in.linkedin.com/in/swetsoni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=SwetSoni&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 
 </div>
