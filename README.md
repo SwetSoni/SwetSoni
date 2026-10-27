@@ -59,12 +59,8 @@
 <br/>
 <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
 <a href="https://playwright.dev" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/></a>
-<a href="https://www.cypress.io" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/></a>
 <a href="https://testng.org" target="_blank"><img src="https://img.shields.io/badge/TestNG-EE2C2C?style=for-the-badge&logoColor=white"/></a>
-<a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>
 <a href="https://pytest.org" target="_blank"><img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/></a>
-<a href="https://cucumber.io" target="_blank"><img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/></a>
-<a href="https://appium.io" target="_blank"><img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/></a>
 <a href="https://jmeter.apache.org" target="_blank"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/></a>
 
 **Tooling & DevOps**
@@ -88,8 +84,6 @@
 <a href="https://www.metasploit.com" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/></a>
 <a href="https://www.shodan.io" target="_blank"><img src="https://img.shields.io/badge/Shodan-EE1C25?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.splunk.com" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/></a>
-<a href="https://www.elastic.co" target="_blank"><img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/></a>
-<a href="https://snyk.io" target="_blank"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/></a>
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>
 <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/Nessus-33BEB7?style=for-the-badge&logoColor=white"/></a>
